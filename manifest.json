@@ -1,0 +1,9 @@
+{
+  "id": "ai-search",
+  "name": "ai-search",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Use an AI decision model for fast fuzzy search, without exact keyword matching or a complex search engine.",
+  "author": "QuincyLeo",
+  "isDesktopOnly": true
+}
